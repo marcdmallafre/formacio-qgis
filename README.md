@@ -134,6 +134,7 @@
   - Noms clars de capes
   - Evitar duplicats
   - Centralitzar dades del projecte
+- Carregar un geopakage: V:\Urbanisme_IRP\DOCUMENTACIO\Plantilla_GIS_mapes\bd_cartografia\topografia-territorial-v1r0-2023.gpkg
 
 ---
 
