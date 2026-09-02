@@ -33,8 +33,9 @@
 - Visibilitat i zoom a capa
 - Eliminar capes (projecte vs fitxer)
 
-### 3.1. Plugnins d'interès
+### 3.1. Adreçes i plugins d'interès
 - OpenICGC
+- WFS ICGC: https://geoserveis.icgc.cat/servei/catalunya/divisions-administratives/wfs
 
 
 ---
