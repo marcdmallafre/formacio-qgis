@@ -42,7 +42,9 @@
 
 ## 4. Plantilla de treball del servei de prevenció urbanística
 
-#4.1 Estructura de la plantilla QGIS
+V:\Urbanisme_IRP\DOCUMENTACIO\Plantilla_GIS_mapes --> plantilla_qgis_20260902
+
+# 4.1 Estructura de la plantilla QGIS
 - Organització dels grups de capes
 - Convencions de noms
 - Simbologia predefinida
