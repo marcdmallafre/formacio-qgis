@@ -35,6 +35,7 @@
 
 ### 3.1. Adreçes i plugins d'interès
 - OpenICGC
+- Open Coordinator
 - WFS ICGC: https://geoserveis.icgc.cat/servei/catalunya/divisions-administratives/wfs
 
 
