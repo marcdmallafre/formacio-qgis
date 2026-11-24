@@ -442,12 +442,12 @@ urbanístic.
 
 A partir d'un possible assumpte tractat en una comissió d'urbanisme:
 
-**10. Riudoms --- 26/07/2026**
+**10. Villalonga del camp --- 26/07/2026**
 
 AAA / 00112233 / M
 
 Pla especial urbanístic per a la creació d'un circuit de motocròs amb un
-centre de serveis i allotjament turístic, al polígon 43, parcel·la 72.
+centre de serveis i allotjament turístic, al polígon 4, parcel·la 144.
 
 ### Desenvolupament
 
