@@ -266,7 +266,7 @@ servei de prevenció urbanística.
 
 Ubicació:
 
-`V:\Urbanisme_IRP\DOCUMENTACIO\Plantilla_GIS_mapes\plantilla_qgis_20260902`
+`V:\Urbanisme_IRP\DOCUMENTACIO\Plantilla_GIS_mapes\plantilla_qgis_aaaammdd`
 
 -   Obrir i desar la plantilla.
 -   Organització dels grups de capes.
@@ -407,9 +407,11 @@ corporativa i elaborar composicions cartogràfiques.
 Crear una capa de punts a partir d'una taula de coordenades UTM ETRS89
 fus 31N (EPSG:25831).
 
+"V:\Urbanisme_IRP\EXPEDIENTS\AP\AP_2026_0124_PEU_cataleg_construccions_rurals_Torre_Capdella\20260325_entrada\Documents\DIE_PEU_Cataleg_Torre_Cabdella.pdf" -pàgina 24
+
 ### Desenvolupament
 
-1.  Obrir la taula de masos facilitada en format CSV o full de càlcul.
+1.  Obrir la taula de masos facilitada en format CSV o full de càlcul. "V:\Urbanisme_IRP\EXPEDIENTS\AP\AP_2026_0124_PEU_cataleg_construccions_rurals_Torre_Capdella\20260325_entrada\cartografia\llistat_bordes.xlsx"
 2.  Identificar els camps corresponents al codi, nom, coordenada X i
     coordenada Y.
 3.  Incorporar la taula a QGIS.
@@ -470,7 +472,7 @@ centre de serveis i allotjament turístic, al polígon 4, parcel·la 144.
 -   Figura preparada per a la seva inclusió en documents tècnics.
 -   Exportació en PDF i/o imatge.
 
-## Pràctica 6. Selecció i explotació d'informació urbanística
+## Pràctica 6. Selecció i explotació d'informació
 
 ### Objectiu
 
@@ -518,50 +520,6 @@ Gegants.
 -   Polígon modificat amb la incorporació del parc dels Gegants.
 -   Exportació de la informació per a la seva utilització en expedients
     urbanístics.
-
-## Pràctica 7. Anàlisi espacial de riscos i planejament urbanístic
-
-### Objectiu
-
-Aplicar eines de geoprocessament per identificar i quantificar la
-coincidència entre zones de risc i classificació urbanística.
-
-### Enunciat
-
-En el marc d'una consulta urbanística, es vol identificar quines
-categories de sòl del MUC queden afectades per una determinada zona de
-risc d'inundació i quantificar-ne la superfície.
-
-### Desenvolupament
-
-1.  Obrir la plantilla corporativa.
-2.  Identificar i activar la capa de risc d'inundació que correspongui a
-    l'exercici.
-3.  Incorporar o activar la informació del MUC.
-4.  Comprovar que les capes utilitzades tenen sistemes de coordenades
-    compatibles.
-5.  Executar una intersecció entre la zona de risc i la classificació
-    urbanística.
-6.  Revisar la taula d'atributs del resultat.
-7.  Calcular la superfície afectada mitjançant la calculadora de camps.
-8.  Agrupar o resumir les superfícies per classificació del sòl.
-9.  Revisar els resultats i comprovar que no hi ha errors geomètrics o
-    de càlcul.
-10. Elaborar una composició cartogràfica amb la plantilla corporativa.
-
-### Productes finals
-
--   Capa resultant de la intersecció entre risc i classificació
-    urbanística.
--   Taula d'atributs amb les superfícies afectades.
--   Resum de superfícies per categoria de sòl.
--   Composició cartogràfica amb els resultats de l'anàlisi.
-
-**Nota:** la pràctica s'ha de plantejar amb una capa de risc i un àmbit
-de treball concrets, facilitats prèviament pel formador. La
-interpretació normativa del risc no forma part de l'objectiu d'aquest
-exercici; l'objectiu és aprendre a tractar i analitzar les dades
-cartogràfiques.
 
 # RESULTATS D'APRENENTATGE
 
