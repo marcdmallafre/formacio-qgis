@@ -2,8 +2,6 @@
 
 ## Aplicació al servei de prevenció urbanística de la Direcció General de Protecció Civil
 
-**Document de treball --- proposta revisada**
-
 ------------------------------------------------------------------------
 
 ## 1. Objectiu del curs
